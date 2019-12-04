@@ -1,2 +1,2 @@
-# test-case-framework
+# BlockQ
 The Python Micro Framework for Blockchain
